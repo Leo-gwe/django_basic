@@ -1,0 +1,30 @@
+/* #header_logo { */
+    /* width: 150px; */
+    /* height: auto; */
+    /* display: flex; */
+    /* justify-content: flex-start; */
+    /* margin: 10px; */
+/* } */
+
+/* #logo { */
+    /* height: auto; */
+    /* margin-right: 10px; */
+    /* border-radius: 5px; */
+/* } */
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+} */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
